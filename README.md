@@ -17,9 +17,30 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div><br/>
 
-Olá, me chamo Gabriel e sou um programador obstinado de 18 anos amante de lógica e tecnologia, uni o útil ao agradável e hoje sou programador. Um autodidata com hiperfoco, sempre buscando solucionar problemas e facilitar a vida das pessoas.<br/>
+# João Gabriel Souza
 
+Administrador de Sistemas Linux | Virtualização | Infraestrutura | PHP | Python
 
+Atualmente trabalho com:
+
+- Linux
+- Proxmox VE
+- Virtualização
+- Redes
+- PHP
+- Python
+- Git
+- Docker
+- Bash
+
+Interesses
+
+- DevOps
+- Cloud
+- Segurança
+- Automação
+- Desenvolvimento Backend
+<br/>
 <img width="800px" height="400px" align="center" src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"/>
 
 ## Distros:
