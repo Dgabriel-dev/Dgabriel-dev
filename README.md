@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Souza
+# João Gabriel Souza
 
 **DevOps Engineer | Backend Developer | Linux Sysadmin**
 
